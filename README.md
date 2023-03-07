@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=DevOps+%7C+OpenSource+Contributor+%7C+Technical+Writer)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapsingh13&label=Profile%20views&color=0e75b6&style=flat" alt="pratapsingh13" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratapsingh13" alt="pratapsingh13" /></a> </p>
+
 <p>
  <a href="mailto: yogendrapratapsingh70@gmail.com"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
  <a href="https://www.linkedin.com/in/yogendra-pratap-singh-41630716b/"><img src="https://img.icons8.com/ios-filled/36/2266EE/linkedin.png"/></a>
@@ -13,6 +17,12 @@
  <a href="https://www.instagram.com/impratapofficial/"><img src="https://img.icons8.com/color/36/2266EE/instagram.png"/></a>
 </p>
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratapsingh13&show_icons=true&locale=en&layout=compact" alt="pratapsingh13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratapsingh13&show_icons=true&locale=en" alt="pratapsingh13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratapsingh13&" alt="pratapsingh13" /></p>
 
 ---
 
@@ -81,5 +91,3 @@
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
 <em><b> I love contributing to DevOps :)</em>
 </p>
-
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
