@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapsingh13&label=Profile%20views&color=0e75b6&style=flat" alt="pratapsingh13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratapsingh13" alt="pratapsingh13" /></a> </p>
 
 <p>
  <a href="mailto: yogendrapratapsingh70@gmail.com"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
